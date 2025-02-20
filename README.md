@@ -8,7 +8,7 @@
 
 
 🚀 **Senior Full-Stack Developer | Software Developer with 5 + Year of Experience | AI & Data Analytics Enthusiast**  
-🔬 Passionate about **Medical Imaging, DICOM, AI/ML, and Data Science**  
+🔬 Passionate about **AI/ML, and Data Science**  
 💡 Committed to building **scalable, high-performance applications**  
 
 ---
@@ -107,4 +107,4 @@
 
 ### 🚀 Let's Collaborate!  
 I’m open to **freelance work, collaborations, and AI research projects.**  
-💬 Drop a message if you're interested in **AI/ML, DICOM, or full-stack development!**
+💬 Drop a message if you're interested in **AI/ML or full-stack development!**
