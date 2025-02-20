@@ -10,56 +10,21 @@
 🚀 **Senior Full-Stack Developer | Software Developer with 5 + Year of Experience | AI & Data Analytics Enthusiast**  
 🔬 Passionate about **AI/ML, and Data Science**  
 💡 Committed to building **scalable, high-performance applications**  
+🛠 Development Practices: Strong knowledge of the Software Development Lifecycle (SDLC) and Agile methodologies
 
 ---
 
 ### 🛠 Tech Stack
-- **Microsoft Office Suite:** Outlook, Word, Excel, PowerPoint, Access  
-- **Business Intelligence:** Power BI  
-- **Development Tools:** VS Code , VS Studio, SQL Management Studio(SSMS)
-- **Programming Languages:** JavaScript, TypeScript, HTML, SQL, Python, Java , C#
-- **Software Applications:** PowerBI,
-- **Technologies:** React, Angular, ASP.NET  
-- **Databases:** SQL
-- **Development Practices:** Strong knowledge of the Software Development Lifecycle (SDLC), Agile methodologies.
-- **AI & Data:** TensorFlow, Scikit-learn, Pandas, NumPy, DAX.
-- **Medical Imaging:** DICOM, OHIF Viewer, Cornerstone3D
-- **Version Control:** Git, GitHub  
-- **Project Management Tools:** JIRA, Confluence, Dropbox, Digital.ai(Agility)
-
-  <p align="center">
-  <img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Studio-%235C2D91.svg?&style=for-the-badge&logo=visual-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/SSMS-%23F29111.svg?&style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-%23F2C811.svg?&style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/AI-%230066CC.svg?&style=for-the-badge&logo=artificial-intelligence&logoColor=white" />
-  <img src="https://img.shields.io/badge/DICOM-%231F1F1F.svg?&style=for-the-badge&logo=dicom&logoColor=white" />
-  <img src="https://img.shields.io/badge/Medical_Imaging-%236DB33F.svg?&style=for-the-badge&logo=health&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-%23CC2927.svg?&style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-%23178BCA.svg?&style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET-%23009639.svg?&style=for-the-badge&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/JIRA-%230052CC.svg?&style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Confluence-%23036CB5.svg?&style=for-the-badge&logo=confluence&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dropbox-%23006EFF.svg?&style=for-the-badge&logo=dropbox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Digital.ai(Agility)-%230F71C2.svg?&style=for-the-badge&logo=agile&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_learn-%23F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/DAX-%23F2C811.svg?&style=for-the-badge&logo=powerbi&logoColor=black" />
-</p>
-
-
-  
+🔹 Software Tools
+<p align="center"> <img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Studio-%235C2D91.svg?&style=for-the-badge&logo=visual-studio&logoColor=white" /> <img src="https://img.shields.io/badge/SSMS-%23F29111.svg?&style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft_Office-%230078D4.svg?&style=for-the-badge&logo=microsoft-office&logoColor=white" /> <img src="https://img.shields.io/badge/Power_BI-%23F2C811.svg?&style=for-the-badge&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/JIRA-%230052CC.svg?&style=for-the-badge&logo=jira&logoColor=white" /> <img src="https://img.shields.io/badge/Confluence-%23036CB5.svg?&style=for-the-badge&logo=confluence&logoColor=white" /> <img src="https://img.shields.io/badge/Dropbox-%23006EFF.svg?&style=for-the-badge&logo=dropbox&logoColor=white" /> <img src="https://img.shields.io/badge/Digital.ai(Agility)-%230F71C2.svg?&style=for-the-badge&logo=agile&logoColor=white" /> <img src="https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /> </p>
+🔹 Programming Languages
+<p align="center"> <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-%23CC2927.svg?&style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /> <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/C%23-%23178BCA.svg?&style=for-the-badge&logo=c-sharp&logoColor=white" /> </p>
+🔹 Frameworks
+<p align="center"> <img src="https://img.shields.io/badge/React-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" /> <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white" /> <img src="https://img.shields.io/badge/ASP.NET-%23009639.svg?&style=for-the-badge&logo=.net&logoColor=white" /> </p>
+🔹 Libraries & AI Tools
+<p align="center"> <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit_learn-%23F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/DAX-%23F2C811.svg?&style=for-the-badge&logo=powerbi&logoColor=black" /> </p>
+🔹 Medical Imaging
+<p align="center"> <img src="https://img.shields.io/badge/DICOM-%231F1F1F.svg?&style=for-the-badge&logo=dicom&logoColor=white" /> <img src="https://img.shields.io/badge/Medical_Imaging-%236DB33F.svg?&style=for-the-badge&logo=health&logoColor=white" /> <img src="https://img.shields.io/badge/OHIF_Viewer-%230076D6.svg?&style=for-the-badge&logo=open-source-initiative&logoColor=white" /> <img src="https://img.shields.io/badge/Cornerstone3D-%23FF4500.svg?&style=for-the-badge&logo=webgl&logoColor=white" /> </p>
 
 ### 💼 Work Experience  
 🔹**Software Engineer Consultant @ RapidAI,Canada Remote Inc (Sep 2023 - Present)**  
