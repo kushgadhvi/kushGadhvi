@@ -64,7 +64,7 @@
 ### 💼 Work Experience  
 🔹**Software Engineer Consultant @ RapidAI,Canada Remote Inc (Sep 2023 - Present)**  
 🔹**Senior Software Engineer @ RapidAI Inc, India (Jan 2023 - Aug 2023)**  
- - Built a new DICOM viewer for websites and mobile apps using open-source technology, ensuring versatility and accessibility.  
+ - Built a new DICOM (Medical Imaging) viewer for websites and mobile apps using open-source technology, ensuring versatility and accessibility.  
  - Optimized the medical imaging viewer for mobile devices, enhancing service-oriented usability and reducing load times
 
 🔹 **Senior Software Engineer @  Suventure Services Pvt Ltd , India (Sep 2022 – Jan 2023)**
