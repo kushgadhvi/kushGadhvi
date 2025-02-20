@@ -1,4 +1,11 @@
-# 👋 Hi, I'm Kush Gadhvi  
+<div align="center">
+  <a href="https://github.com/luvgadhvi?tab=repositories">
+    <img src="https://github.com/kushgadhvi/kushGadhvi/blob/main/kush-git.webp" width="850" height="450" alt="Hello World, I'm Kush">
+  </a>
+</div>
+
+
+
 
 🚀 **Senior Full-Stack Developer | Software Devloper with 5 + Year of Experience | AI & Data Analytics Enthusiast**  
 🔬 Passionate about **Medical Imaging, DICOM, AI/ML, and Data Science**  
