@@ -42,7 +42,9 @@
 🎓 **Postgraduate Certificate in AI & Data Analytics** – Saskatchewan Polytechnic *(2024 - 2025)*  
 🎓 **Postgraduate Certificate in Technology Managment** – Saskatchewan Polytechnic *(2023 - 2024)*  
 🎓 **Bachelor of Technology in Electronics & Telecommunication** – VJTI Mumbai *(2014 - 2018)*  
+
 ---
+
 
 ### 📫 Connect With Me  
 💼 [LinkedIn](https://linkedin.com/in/kush-gadhvi/)  
@@ -51,7 +53,12 @@
 ---
 
 ### 🏆 Achievements  
-✔ Dean's Honor List @ Saskatchewan Polytechnic (2024) 
+✔	**Academic Excellence (2024):** Earned placement on the Dean's Honor List at Saskatchewan Polytechnic in recognition of outstanding academic achievement and dedication to excellence.
+
+✔	**Team Leadership Recognition (2022):** Commended for diligent work and exceptional mentorship, ensuring the seamless onboarding and development of new team members.
+
+✔	**Awarded for Excellence (2020):** Recognized for significant contributions to the successful project release and the 3D Printing and AI viewer project, delivering impactful solutions that enhanced system performance and functionality.
+
 
 ---
 
