@@ -7,7 +7,7 @@
 
 
 
-🚀 **Senior Full-Stack Developer | Software Devloper with 5 + Year of Experience | AI & Data Analytics Enthusiast**  
+🚀 **Senior Full-Stack Developer | Software Developer with 5 + Year of Experience | AI & Data Analytics Enthusiast**  
 🔬 Passionate about **Medical Imaging, DICOM, AI/ML, and Data Science**  
 💡 Committed to building **scalable, high-performance applications**  
 
