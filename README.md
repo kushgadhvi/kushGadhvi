@@ -42,13 +42,6 @@
 🎓 **Postgraduate Certificate in AI & Data Analytics** – Saskatchewan Polytechnic *(2024 - 2025)*  
 🎓 **Postgraduate Certificate in Technology Managment** – Saskatchewan Polytechnic *(2023 - 2024)*  
 🎓 **Bachelor of Technology in Electronics & Telecommunication** – VJTI Mumbai *(2014 - 2018)*  
-
----
-
-### 📊 GitHub Stats & Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)  
-
 ---
 
 ### 📫 Connect With Me  
