@@ -44,7 +44,9 @@
 🎓 **Bachelor of Technology in Electronics & Telecommunication** – VJTI Mumbai *(2014 - 2018)*  
 
 ---
-
+## 📈 GitHub Stats
+![Kush's GitHub stats](https://github-readme-stats.vercel.app/api?username=kushgadhvi&show_icons=true&theme=radical)
+---
 
 ### 📫 Connect With Me  
 💼 [LinkedIn](https://linkedin.com/in/kush-gadhvi/)  
